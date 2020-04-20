@@ -4,6 +4,6 @@ Topic : Health
 
 User Persona :
    
-   Adult:
-   Surgeon:
+   Adults:
+   Surgeons:
    
