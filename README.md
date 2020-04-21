@@ -24,8 +24,8 @@ Task model:
 
            looking for a health related information for all age               Google(website, app, a heads-up-display, newspaper)
            Search for informative articles                                    Not able to find a website on Google            
-           Talk to friends and family	                                      Face to face, phone, messages
-           Checks referral websites	                                      Visit multiple websites and blogs to compare and evaluate 
+           Talk to friends and family	                                        Face to face, phone, messages
+           Checks referral websites	                                          Visit multiple websites and blogs to compare and evaluate 
            Choose website                                                     on google
            She found one                                                      Searching informations
            
